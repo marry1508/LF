@@ -1,2 +1,2 @@
 # LF6
-hello
+hello - hier ist das Repo von **Lernfeld 06 IT - Serviceanfragen bearbeiten**
